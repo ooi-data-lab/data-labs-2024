@@ -1,5 +1,8 @@
 .ipynb_checkpoints
 .vscode
-in_development/
 data/
+in_development/
 Labs/data
+Labs/images
+Labs/plates
+Labs/seafloor
